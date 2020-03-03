@@ -18,5 +18,7 @@ Paul Renner <br>
 
 
 3. change file directory for stack and shape <br>
-4. change ID field for your data
-execute plot script for visual analysis of the ROI <br>
+4. change ID field for your data <br>
+5. select median or mean in "Visualisation"
+execute plot script till TESTZONE for visual analysis of the ROIs <br>
+
