@@ -6,9 +6,11 @@ Paul Renner <br>
 * Sentinel-1 stacks VV and VH (ENVI-stack, .hdr)
 * shapes of the regions of intrest (ROI)/training samples with change <br>
 <br>
+
 **Programms recommended:** <br>
 * Anaconda Navigator (Anaconda3) 
 <br>
+
 **Steps for execution:**
 1. import conda environment <br>
 2. use jupyter notebook with anaconda3 <br>
